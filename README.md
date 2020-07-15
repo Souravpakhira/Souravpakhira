@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Sourav Pakhira, a passionate Full Stack Developer 🚀 from India. Beside's programming, I enjoy watching anime.
+Hi, I'm Sourav Pakhira, a passionate Full Stack Web Developer 🚀 from India. Beside's programming, I enjoy watching anime.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
   
