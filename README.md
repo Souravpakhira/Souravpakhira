@@ -58,7 +58,7 @@ Hi, I'm Sourav Pakhira, a passionate Full Stack Web Developer 🚀 from India. B
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravpakhira&repo=PersonalBlog" />
 </a>
 
-<a href="https://github.com/Souravpakhira/CoronaTracker">
+<a href="https://github.com/Souravpakhira/Youtube-clone">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravpakhira&repo=Youtube-clone" />
 </a>
 
