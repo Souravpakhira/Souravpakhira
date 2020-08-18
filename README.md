@@ -25,8 +25,8 @@ Hi, I'm Sourav Pakhira, a passionate Full Stack Web Developer 🚀 from India. B
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [](https://github.com/abhisheknaiidu/A-POP); -->
-- 👨🏽‍💻 I’m currently working on Django ecommerce website
-- 🌱 I’m currently learning ReactJs and VueJs; 
+<!-- - 👨🏽‍💻 I’m currently working on Django ecommerce website -->
+- 🌱 I’m currently learning ReactJs and nodeJS; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡  Available for Freelance projects/internship opportunities.
 - 📫 How to reach me: pakhira55@gmail.com;
